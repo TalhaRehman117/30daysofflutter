@@ -8,11 +8,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("TR-Developers"),
+        title: Text("TR-Online Shopping Store"),
       ),
       body: Center(
         child: Container(
-          child: Text("Welcome from Talha Rehman"),
+          child: Text("Welcome on my Store "),
         ),
       ),
       drawer: Drawer(),
